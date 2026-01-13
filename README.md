@@ -1,2 +1,1 @@
-# invictus-launcher-updates
-Launcher updates
+# This is used for updating launcher
