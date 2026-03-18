@@ -1,1 +1,1 @@
-# This is used for updating launcher
+# Invictus Launcher
